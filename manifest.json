@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-supernote-cloud-sync",
+	"name": "Supernote Cloud",
+	"version": "0.0.1",
+	"minAppVersion": "0.15.0",
+	"description": "Grab notes from Supernote Cloud and sync them to your Obsidian vault.",
+	"author": "Ryan Barnes",
+	"authorUrl": "https://barnes.lol",
+	"isDesktopOnly": false
+}
