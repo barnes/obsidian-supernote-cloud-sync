@@ -113,7 +113,7 @@ export default class ObsidianSupernoteCloudSync extends Plugin {
 }
 
 class SampleSettingTab extends PluginSettingTab {
-	plugin: ObsidianSupernoteCloudSync
+	plugin: ObsidianSupernoteCloudSync;
 
 	constructor(app: App, plugin: ObsidianSupernoteCloudSync) {
 		super(app, plugin);
